@@ -104,17 +104,17 @@
 @media screen and (min-width: 2000px) {
   .custom__button,
   .p__cormorant {
-    font-size: 37px;
+    font-size: 30px;
     line-height: 67px;
   }
 
   .p__opensans {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 50px;
   }
 
   .headtext__cormorant {
-    font-size: 150px;
+    font-size: 110px;
     line-height: 210px;
   }
 
