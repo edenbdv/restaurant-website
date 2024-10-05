@@ -1,10 +1,10 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.jpg';
 import G from '../assets/G.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
-import gallery03 from '../assets/gallery03.png';
-import gallery04 from '../assets/gallery04.png';
+import gallery01 from '../assets/gallery01.jpg';
+import gallery02 from '../assets/gallery02.jpg';
+import gallery03 from '../assets/gallery03.jpg';
+import gallery04 from '../assets/gallery04.jpg';
 import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
@@ -12,7 +12,6 @@ import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import welcome from '../assets/welcome.png';
 import welcome2 from '../assets/welcome2.jpg';
-import welcome3 from '../assets/welcome3.jpg';
 import findus from '../assets/findus.png';
 import laurels from '../assets/laurels.jpg';
 import award01 from '../assets/award01.png';
@@ -38,7 +37,6 @@ export default {
   spoon,
   welcome,
   welcome2,
-  welcome3,
   findus,
   laurels,
   award01,
