@@ -14,7 +14,7 @@ import welcome from '../assets/welcome.png';
 import welcome2 from '../assets/welcome2.jpg';
 import welcome3 from '../assets/welcome3.jpg';
 import findus from '../assets/findus.png';
-import laurels from '../assets/laurels.png';
+import laurels from '../assets/laurels.jpg';
 import award01 from '../assets/award01.png';
 import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';
