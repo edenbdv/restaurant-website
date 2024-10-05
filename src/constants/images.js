@@ -1,5 +1,5 @@
 import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
+import chef from '../assets/chef.jpg';
 import G from '../assets/G.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
@@ -13,7 +13,6 @@ import spoon from '../assets/spoon.svg';
 import welcome from '../assets/welcome.png';
 import welcome2 from '../assets/welcome2.jpg';
 import welcome3 from '../assets/welcome3.jpg';
-
 import findus from '../assets/findus.png';
 import laurels from '../assets/laurels.png';
 import award01 from '../assets/award01.png';

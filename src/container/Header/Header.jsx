@@ -16,7 +16,7 @@ const Header = () => (
     </div>
 
     <div className='app__wrapper_img'>
-    <img className='app__welcome_img' src={images.welcome2} style={{ width: '40rem', height: 'auto' }} alt="Welcome" />
+    <img className='app__welcome_img' src={images.welcome2} alt="Welcome" />
     </div>
 
     
