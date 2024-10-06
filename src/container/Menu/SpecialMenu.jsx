@@ -36,7 +36,7 @@ const SpecialMenu = ({ onViewMoreClick, buttonText }) => (
       </div>
     </div>
 
-    <div style={{marginTop:'0.1rem'}}>
+    <div >
           <button type='button' className='custom__button' onClick={onViewMoreClick}>{buttonText}</button>
     </div>
 
