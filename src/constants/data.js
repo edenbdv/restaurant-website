@@ -1,5 +1,84 @@
 import images from './images';
 
+
+const menu = {
+  pasta: [
+    {
+      title: 'Spaghetti Carbonara',
+      price: '$18',
+      tags: 'Spaghetti | Eggs | Pecorino cheese | Pancetta',
+    },
+    {
+      title: 'Penne Arrabbiata',
+      price: '$16',
+      tags: 'Penne | Spicy tomato sauce | Garlic | Parsley',
+    },
+    {
+      title: 'Fettuccine Alfredo',
+      price: '$20',
+      tags: 'Fettuccine | Butter | Parmesan cheese | Cream',
+    },
+    {
+      title: 'Lasagna',
+      price: '$22',
+      tags: 'Layers of pasta | Beef | Cheese | Tomato sauce',
+    },
+  ],
+  pizza: [
+    {
+      title: 'Margherita Pizza',
+      price: '$15',
+      tags: 'Tomato sauce | Fresh mozzarella | Basil',
+    },
+   
+    {
+      title: 'Quattro Formaggi',
+      price: '$19',
+      tags: 'Four cheeses | Mozzarella | Gorgonzola | Parmesan | Goat cheese',
+    },
+    {
+      title: 'Vegetarian Pizza',
+      price: '$17',
+      tags: 'Tomato sauce | Mozzarella | Seasonal vegetables',
+    },
+  ],
+  risotto: [
+    {
+      title: 'Risotto alla Milanese',
+      price: '$24',
+      tags: 'Arborio rice | Saffron | Parmesan cheese',
+    },
+    {
+      title: 'Mushroom Risotto',
+      price: '$22',
+      tags: 'Arborio rice | Wild mushrooms | White wine | Parmesan',
+    },
+    {
+      title: 'Mediterranean Herb Risotto',
+      price: '$23',
+      tags: 'Arborio rice | Fresh basil | Sun-dried tomatoes | Olive oil | Lemon zest',
+    },
+
+  ],
+  dessert: [
+    {
+      title: 'Tiramisu',
+      price: '$8',
+      tags: 'Coffee-soaked ladyfingers | Mascarpone cheese | Cocoa powder',
+    },
+    {
+      title: 'Panna Cotta',
+      price: '$7',
+      tags: 'Cream | Sugar | Vanilla | Berry coulis',
+    },
+    {
+      title: 'Cannoli',
+      price: '$9',
+      tags: 'Pastry shells | Sweet ricotta filling | Chocolate chips',
+    },
+  ],
+};
+
 const wines = [
   {
     title: 'Chapel Hill Shiraz',
@@ -79,4 +158,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { menu, wines, cocktails, awards };

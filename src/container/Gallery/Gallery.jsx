@@ -28,7 +28,6 @@ const Gallery = () => {
         <SubHeading title="Instegram" />
         <h1 className='headtext__cormorant'>Photo Gallery</h1>
         <p className='p__opensans' style={{color: '#AAA', marginTop: '2rem'}}>Step into a world of culinary artistry, where each image brings to life the flavors, textures, and passion behind our dishes. Immerse yourself in the vibrant essence of authentic Italian cuisine.</p>
-        <button type="button" className='custom__button'>View More</button>
       </div>
 
       <div className='app__gallery-images'>

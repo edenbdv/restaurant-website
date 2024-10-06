@@ -14,6 +14,28 @@
     align-items: center;
 }
 
+.app__navbar-links a {
+    color: white; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+}
+
+.app__navbar-links a:hover {
+    color: var(--color-grey); 
+}
+
+
+.app__navbar-smallscreen-links a {
+    color: white; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+}
+
+.app__navbar-smallscreen-links a:hover {
+    color: var(--color-grey); 
+}
+
+
 .app__navbar-logo img {
     width: 150px;
 }

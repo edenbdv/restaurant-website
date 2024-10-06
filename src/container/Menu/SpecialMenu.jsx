@@ -2,9 +2,10 @@ import React from 'react';
 
 import './SpecialMenu.css';
 import {images, data} from '../../constants';
+
 import {SubHeading, MenuItem} from '../../components';
 
-const SpecialMenu = () => (
+const SpecialMenu = ({ onViewMoreClick, buttonText }) => (
   <div className='app__specialMenu flex__center section__padding' id="menu">
     <div className='app__specialMenu-title'>
       <SubHeading title="Happy Hour"/>
@@ -36,7 +37,7 @@ const SpecialMenu = () => (
     </div>
 
     <div style={{marginTop:'0.1rem'}}>
-          <button type='button' className='custom__button'>View More</button>
+          <button type='button' className='custom__button' onClick={onViewMoreClick}>{buttonText}</button>
     </div>
 
   </div>
