@@ -12,7 +12,9 @@ const Header = () => (
       <p className='p__opensans' style={{ margin: '2rem 0rem' }}>
   We believe that fine dining is a journey to the heart of Italy. Our talented chefs expertly blend traditional recipes with fresh, locally sourced ingredients to create dishes that celebrate authentic Italian flavors. From handcrafted pasta to exquisite desserts, each meal is a testament to our passion for quality and culinary excellence. 
       </p>
+      <a href="#specialmenu">
       <button type='button' className='custom__button'>Explore Menu</button>
+      </a>
     </div>
 
     <div className='app__wrapper_img'>

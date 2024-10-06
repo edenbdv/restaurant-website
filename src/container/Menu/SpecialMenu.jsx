@@ -6,7 +6,7 @@ import {images, data} from '../../constants';
 import {SubHeading, MenuItem} from '../../components';
 
 const SpecialMenu = ({ onViewMoreClick, buttonText }) => (
-  <div className='app__specialMenu flex__center section__padding' id="menu">
+  <div className='app__specialMenu flex__center section__padding' id="specialmenu">
     <div className='app__specialMenu-title'>
       <SubHeading title="Happy Hour"/>
       <h1 className='headtext__cormorant'>Today's Special</h1>

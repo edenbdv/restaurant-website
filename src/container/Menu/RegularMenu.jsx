@@ -5,7 +5,7 @@ import {data} from '../../constants';
 import {SubHeading, MenuItem} from '../../components';
 
 const regularMenu = ({onClose}) => (
-    <div className='app__regularlMenu flex__center section__padding' id="menu"> 
+    <div className='app__regularlMenu flex__center section__padding' id="regmenu"> 
       <div className='app__regularlMenu-title'>
         <SubHeading title="Buon Appetito"/>
         <h1 className='headtext__cormorant'>Our Menu</h1>

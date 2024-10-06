@@ -1,6 +1,7 @@
 .app__specialMenu {
     flex-direction: column;
-    background-color: var(--color-black);
+    background-color: var(--color-black); 
+
 }
 
 .app__specialMenu-title {
